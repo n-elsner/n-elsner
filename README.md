@@ -1,4 +1,4 @@
-### Estudante de Sistemas de Informação
+### SI Student
 
 <div align="center">
   <a href="https://github.com/n-elsner">
